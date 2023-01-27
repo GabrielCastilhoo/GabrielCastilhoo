@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/GabrielCastilhoo>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCastilhooGabrielCastilhooshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCastilhoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCastilhoo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
